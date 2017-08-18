@@ -1,0 +1,8 @@
+#main-cta{
+  display: block;
+}
+#main-cta button.btn{
+  float: none;
+  margin: 0 auto;
+  display: block;
+}
